@@ -38,7 +38,7 @@ plt.legend()
 
 plt.xlim(xmin=-2*np.pi)
 plt.xlim(xmax=2*np.pi)
-plt.savefig('waveplot.png')
+plt.savefig('waveplot.pdf')
 
 
 
